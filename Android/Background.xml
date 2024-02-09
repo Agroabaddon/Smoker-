@@ -1,0 +1,5 @@
+<!-- psychedelic_background.xml -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/psychedelic_mushroom_image"
+    android:gravity="center"
+    android:tileMode="repeat" />
